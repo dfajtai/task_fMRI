@@ -5,8 +5,11 @@ Task fMRI processing
 
 # FSL - task fMRI  
 [Overview](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/task_fmri/index)  
+
 [FEAT](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/task_fmri/feat/index)  
 [old FEAT](https://web.mit.edu/fsl_v5.0.10/fsl/doc/wiki/FEAT.html)  
+
+[MELODIC](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/resting_state/melodic)  
 [old MELODIC](https://web.mit.edu/fsl_v5.0.10/fsl/doc/wiki/MELODIC.html)  
 
 
